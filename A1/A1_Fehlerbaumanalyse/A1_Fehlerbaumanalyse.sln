@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "A1_Fehlerbaumanalyse", "A1_Fehlerbaumanalyse.pyproj", "{84D21C73-695E-4B70-991D-82A09246B06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84D21C73-695E-4B70-991D-82A09246B06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D21C73-695E-4B70-991D-82A09246B06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A5BF560-9E06-4225-BC52-D7FFE30D3F32}
+	EndGlobalSection
+EndGlobal
