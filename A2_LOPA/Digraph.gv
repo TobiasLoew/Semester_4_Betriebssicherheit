@@ -1,0 +1,14 @@
+digraph {
+	graph [nodesep=0]
+	node [fontname=Arial fontsize=5 shape=rectangle]
+	f0 [label=f0 height=1.101570144781319 shape=rarrow width=0.25]
+	USE1 [label=USE1 height=1.5 width=0.5 xlabel=0.1]
+	f1 [label=f1 height=0.8786932141569023 shape=rarrow width=0.5]
+	USE2 [label=USE2 height=1.5 width=0.5 xlabel=0.2]
+	f2 [label=f2 height=0.7698244703359013 shape=rarrow width=0.75]
+	USE3 [label=USE3 height=1.5 width=0.5 xlabel=0.15]
+	f3 [label=f3 height=0.6717227608662931 shape=rarrow width=1]
+	USE4 [label=USE4 height=1.5 width=0.5 xlabel=0.2]
+	f4 [label=f4 height=0.6061880125747942 shape=rarrow width=1.25]
+	USE5 [label=USE5 height=1.5 width=0.5 xlabel=0.15]
+}
